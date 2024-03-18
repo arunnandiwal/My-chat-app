@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/htpps;//arunnandiwal.github.io/My-chat-app/static/css/main.7ff68cef.css",
-    "main.js": "/htpps;//arunnandiwal.github.io/My-chat-app/static/js/main.c266f6cc.js",
-    "static/js/453.3acbc660.chunk.js": "/htpps;//arunnandiwal.github.io/My-chat-app/static/js/453.3acbc660.chunk.js",
-    "index.html": "/htpps;//arunnandiwal.github.io/My-chat-app/index.html",
-    "main.7ff68cef.css.map": "/htpps;//arunnandiwal.github.io/My-chat-app/static/css/main.7ff68cef.css.map",
-    "main.c266f6cc.js.map": "/htpps;//arunnandiwal.github.io/My-chat-app/static/js/main.c266f6cc.js.map",
-    "453.3acbc660.chunk.js.map": "/htpps;//arunnandiwal.github.io/My-chat-app/static/js/453.3acbc660.chunk.js.map"
+    "main.css": "/My-chat-app/static/css/main.7ff68cef.css",
+    "main.js": "/My-chat-app/static/js/main.2aacf8ad.js",
+    "static/js/453.3acbc660.chunk.js": "/My-chat-app/static/js/453.3acbc660.chunk.js",
+    "index.html": "/My-chat-app/index.html",
+    "main.7ff68cef.css.map": "/My-chat-app/static/css/main.7ff68cef.css.map",
+    "main.2aacf8ad.js.map": "/My-chat-app/static/js/main.2aacf8ad.js.map",
+    "453.3acbc660.chunk.js.map": "/My-chat-app/static/js/453.3acbc660.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ff68cef.css",
-    "static/js/main.c266f6cc.js"
+    "static/js/main.2aacf8ad.js"
   ]
 }
