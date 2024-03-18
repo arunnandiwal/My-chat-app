@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.JoinPage {
+
+    background:
+    linear-gradient(#8f8be8, #8f8be8) 25% 76%/20% 20% no-repeat, 
+    radial-gradient(#8f8be8 50%, transparent 0);
+    width: 100vw;
+    height: 100vh;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.JoinContainer {
+   
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* .JoinContainer img {
+    width: 10vmax;
+} */
+
+.JoinContainer h1 {
+    color: black;
+    font-size: 2.5vmax;
+    width: 23vmax;
+    border-bottom: 0.2vmax solid black;
+    text-align: center;
+    padding: 1vmax;
+    font-family: "Roboto";
+}
+
+#joinInput {
+    width: 25vmax;
+    padding: 1.5vmax;
+    border: none;
+    outline: none;
+    font-size: 1.2vmax;
+    margin: 2vmax;
+    box-sizing: border-box;
+    transition: all 0.3s;
+
+}
+
+.joinbtn {
+    width: 25vmax;
+    padding: 1.5vmax;
+    border: none;
+    outline: none;
+    font-size: 1.2vmax;
+    color: white;
+    font-family: "Roboto";
+    margin: 2vmax;
+    font-size: 22px;
+    box-sizing: border-box;
+    background-color: #3b33d1;
+    transition: all 0.3s;
+    cursor: pointer;
+    transition: all 0.3s;
+
+}.joinbtn:hover{
+    transition: all 0.3s;
+    background-color: #29248a;
+
+}
+
+body{
+    background: rgb(201, 244, 245);
+}
